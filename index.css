@@ -1,4 +1,27 @@
-#header{
-    color: blue;
-    font:bolder
+#header{color: purple;
+    font-size:xx-large;
+    font-style: italic;
+    text-align: center;
+    text-underline-position: auto;
+}
+
+
+#item-input{color: aqua;
+    margin-top: 0cqb;
+    text-align: justify;
+}
+#addItemButton{color: blueviolet;
+           background-color: beige;
+           margin-right: 0cqmin;
+}
+#markPurchasedButton{color: darkblue;
+            background-color: darkkhaki;
+}
+#clearListButton{color:brown;
+             background-position: 0cm;
+             background-color:aliceblue
+}
+body{background-color: cadetblue;
+    text-decoration: overline;
+
 }

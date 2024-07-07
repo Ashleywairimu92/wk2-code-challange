@@ -13,4 +13,6 @@ items.forEach(element =>{
     ul.appendChild(li);
 });                                          
 
-
+const addItemButton = document.getElementById("add");
+const markPurchaseButton = document.getElementById("mark Purchased");
+const clearListButton = document.getElementById("clear lLst");
