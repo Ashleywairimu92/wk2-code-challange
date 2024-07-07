@@ -1,0 +1,44 @@
+{
+ "items":[  
+    {
+        "name": "sugar",
+        "price": 80
+    },
+    {
+       "name": "milk",
+        "price": 50
+    },
+    {
+        "name": "bread",
+        "price": 80
+    },
+    {
+        "name": "maize flour",
+        "price": 120
+    },
+    {
+        "name": "wheat flour",
+        "price": 100
+    },
+    {
+        "name": "potatoes",
+        "price": 90
+    },
+    {
+        "name": "onions",
+        "price": 60
+    },
+    {
+        "name": "cabbage",
+        "price": 20
+    },
+    {
+        "name": "charcoal",
+        "price": 70
+    },
+    {
+        "name": "mangoes",
+        "price": 50
+    }
+ ]
+}
